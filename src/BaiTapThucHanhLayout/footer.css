@@ -1,0 +1,10 @@
+footer {
+   height: 100px;
+}
+
+.footer-content {
+   color: white;
+   font-size: 1.1rem;
+   letter-spacing: 1px;
+   line-height: 100px;
+}

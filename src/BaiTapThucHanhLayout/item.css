@@ -1,0 +1,11 @@
+.img-card {
+   height: 200px;
+   display: flex;
+   justify-content: center;
+}
+
+.img-src {
+   font-size: 2rem;
+   align-self: center;
+   color: gray;
+}
