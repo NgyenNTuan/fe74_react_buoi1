@@ -1,0 +1,16 @@
+.banner {
+   text-align: left;
+}
+
+.banner-content {
+   padding: 4rem 2rem;
+}
+
+.banner-content h1 {
+   margin-bottom: 1rem;
+}
+
+.banner-content p,
+.banner-content button {
+   font-size: 1.1rem;
+}

@@ -1,0 +1,7 @@
+.navbar {
+   justify-content: space-between;
+}
+
+header .nav-link:hover {
+   cursor: pointer;
+}
